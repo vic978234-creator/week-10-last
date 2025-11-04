@@ -1,0 +1,4 @@
+# 파일명: packages.txt
+# 'libxml2-dev'와 'libxslt-dev'는 웹 스크래핑 라이브러리의 설치에 필요한 종속성입니다.
+libxml2-dev
+libxslt-dev
