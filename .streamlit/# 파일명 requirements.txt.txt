@@ -1,0 +1,6 @@
+# 파일명: requirements.txt
+streamlit
+requests
+pandas
+# yfinance, yahoofinance, setuptools는 제거
+pandas-datareader # 💡 새로운 라이브러리 추가
